@@ -2,7 +2,7 @@
 
 Name:		wxlauncher
 Version:	0.9.4
-Release:	1
+Release:	2
 
 Summary:	Cross-platform launcher for the FreeSpace 2
 License:	GPLv2

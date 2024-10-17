@@ -7,7 +7,7 @@ Release:	1
 Summary:	Cross-platform launcher for the FreeSpace 2
 License:	GPLv2
 Group:		Games/Strategy 
-Url:		http://www.hard-light.net/forums/index.php?topic=67950.0"
+Url:		https://www.hard-light.net/forums/index.php?topic=67950.0"
 Source0:	http://wxlauncher.googlecode.com/files/%{name}-%{version}.tar.gz
 Source1:	wxlauncher.png
 Source2:	wxlauncher.desktop
